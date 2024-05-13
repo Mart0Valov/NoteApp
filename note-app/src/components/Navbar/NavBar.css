@@ -1,0 +1,10 @@
+.nav-bar {
+    /* border: 1px solid black; */
+    display: flex;
+    flex-flow: column wrap;
+    row-gap: 5rem;
+    width: 4rem;
+    margin: 0;
+    height: 60vh;
+    padding-left: 0.5rem;
+}
